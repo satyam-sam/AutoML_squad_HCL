@@ -9,5 +9,7 @@ lightgbm
 xgboost
 joblib
 imbalanced-learn
+plotly
+
 
 streamlit
