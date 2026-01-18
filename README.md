@@ -1,7 +1,7 @@
 🛡️ HCL Credit Guard: AI-Driven Credit Risk Scoring
 This repository contains the end-to-end Machine Learning pipeline developed for the HCL Tech AutoML Hackathon. The project automates credit appraisal using advanced Gradient Boosting algorithms to predict loan default probability with high sensitivity.
 
-🚀 Project Overview
+--  Project Overview
 HCL Credit Guard is a "Production-Ready" solution that transforms raw financial data into actionable credit decisions. The system is designed to meet strict banking standards for model performance and explainability.
 
 🛠️ Technical Architecture
